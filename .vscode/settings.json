@@ -2,6 +2,24 @@
     "files.associations": {
         "ostream": "cpp",
         "iostream": "cpp",
-        "cassert": "cpp"
+        "cassert": "cpp",
+        "algorithm": "cpp",
+        "ios": "cpp",
+        "set": "cpp",
+        "vector": "cpp",
+        "__config": "cpp",
+        "complex": "cpp",
+        "ctime": "cpp",
+        "functional": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "*.tcc": "cpp",
+        "charconv": "cpp",
+        "compare": "cpp",
+        "condition_variable": "cpp",
+        "sstream": "cpp",
+        "cmath": "cpp",
+        "tuple": "cpp"
     }
 }
